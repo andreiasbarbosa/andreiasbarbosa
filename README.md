@@ -52,3 +52,4 @@
 ---
 
 <p align="center">✨ “Cada linha de código é um passo rumo ao futuro que eu escolhi.” ✨</p>
+<sub>🔗 Dica: Ctrl + clique (ou botão direito > abrir em nova guia) para abrir os links sem sair desta página.</sub>
