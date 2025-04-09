@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou a Deia! 🌸</h1>
+<h1 align="center">Oi, eu sou a Andréia! 🌸</h1>
 <p align="center">Apaixonada por tecnologia, dados, música, mangás e jogos 🎶📚🎮</p>
 
 ---
