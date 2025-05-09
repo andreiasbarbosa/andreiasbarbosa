@@ -34,7 +34,7 @@
 
 ## 📌 Confira o meu primeiro projeto
 
-- [Sistema de controle de ponto (em breve atualizações)](https://github.com/andreiasbarbosa/eletronic-timekeeping-system) 
+- [Sistema de controle de ponto (parte 3 em andamento)](https://github.com/andreiasbarbosa/eletronic-timekeeping-system) 
 
 ---
 
